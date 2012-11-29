@@ -1,0 +1,9 @@
+first start the bank server - server-bankrmi
+then start the market server - marketServer
+now you can start client - tradeClient
+
+you can create user, login to your account
+after login you can list, sell, buy items. wish function is not implemented yet
+user balance is stored in user table according to project description but 
+it would be better to create a seperate table for balance and bank account details
+
